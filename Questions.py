@@ -2,7 +2,6 @@
 Test :
 Babak Emami,
 emami.babak@gmail.com
-+1-647-326-6199
 Python 3.6
 
 """
